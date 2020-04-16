@@ -11,3 +11,5 @@ This project involves the use of HTML and CSS.The page has the following feature
 4. It also contains a media query. 
 
 There are several other features in the project too. Be sure to check them out and drop in your suggestions!
+
+Link: https://sharmista2shastry.github.io/project1/docpage.html
